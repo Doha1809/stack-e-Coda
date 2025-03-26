@@ -1,0 +1,16 @@
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\bin\Debug\net7.0-windows\Stack e Coda.exe
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\bin\Debug\net7.0-windows\Stack e Coda.deps.json
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\bin\Debug\net7.0-windows\Stack e Coda.runtimeconfig.json
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\bin\Debug\net7.0-windows\Stack e Coda.dll
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\bin\Debug\net7.0-windows\Stack e Coda.pdb
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack_e_Coda.Form1.resources
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.csproj.GenerateResource.cache
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.AssemblyInfoInputs.cache
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.AssemblyInfo.cs
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.csproj.CoreCompileInputs.cache
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.dll
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\refint\Stack e Coda.dll
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.pdb
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\Stack e Coda.genruntimeconfig.cache
+C:\Users\darag.21192\source\repos\Stack e Coda\Stack e Coda\obj\Debug\net7.0-windows\ref\Stack e Coda.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack e Coda", "Stack e Coda\Stack e Coda.csproj", "{197D2750-1A4C-4470-A9B3-068A687C1CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197D2750-1A4C-4470-A9B3-068A687C1CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197D2750-1A4C-4470-A9B3-068A687C1CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197D2750-1A4C-4470-A9B3-068A687C1CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197D2750-1A4C-4470-A9B3-068A687C1CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B730F48-B011-4BC8-9627-26EF328C6A89}
+	EndGlobalSection
+EndGlobal
